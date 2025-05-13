@@ -1,2 +1,2 @@
 # pyxel
-my pyxel personal projects
+my personal pyxel projects
